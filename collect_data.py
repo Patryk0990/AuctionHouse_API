@@ -42,5 +42,3 @@ def get_doomhammer():
     filename = datetime.now().strftime('Doomhammer_EU-%Y-%m-%d-%H-%M.csv')
     analyzed_auction_df = analyze_auctions(connected_realm_id, region)
     analyzed_auction_df.to_csv(filename, index=False)
-
-get_doomhammer()

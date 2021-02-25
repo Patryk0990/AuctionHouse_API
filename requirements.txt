@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 APScheduler
 certifi
 chardet
@@ -13,19 +12,3 @@ six
 tzlocal
 urllib3
 zope.interface
-=======
-APScheduler
-certifi
-chardet
-DateTime
-idna
-numpy
-pandas
-python-dateutil
-pytz
-requests
-six
-tzlocal
-urllib3
-zope.interface
->>>>>>> a1c271f28d6a936e289ec4731d5e46e8f427c4b1
